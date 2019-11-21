@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitdeployReactLeaveSystem/static/css/main.6eefc092.chunk.css",
+    "main.js": "/gitdeployReactLeaveSystem/static/js/main.0b5013ad.chunk.js",
+    "main.js.map": "/gitdeployReactLeaveSystem/static/js/main.0b5013ad.chunk.js.map",
+    "runtime~main.js": "/gitdeployReactLeaveSystem/static/js/runtime~main.43d604f6.js",
+    "runtime~main.js.map": "/gitdeployReactLeaveSystem/static/js/runtime~main.43d604f6.js.map",
+    "static/css/2.5e3e4544.chunk.css": "/gitdeployReactLeaveSystem/static/css/2.5e3e4544.chunk.css",
+    "static/js/2.5719e87b.chunk.js": "/gitdeployReactLeaveSystem/static/js/2.5719e87b.chunk.js",
+    "static/js/2.5719e87b.chunk.js.map": "/gitdeployReactLeaveSystem/static/js/2.5719e87b.chunk.js.map",
+    "index.html": "/gitdeployReactLeaveSystem/index.html",
+    "precache-manifest.810aa96311d34c2ff2018475055a7bf7.js": "/gitdeployReactLeaveSystem/precache-manifest.810aa96311d34c2ff2018475055a7bf7.js",
+    "service-worker.js": "/gitdeployReactLeaveSystem/service-worker.js",
+    "static/css/2.5e3e4544.chunk.css.map": "/gitdeployReactLeaveSystem/static/css/2.5e3e4544.chunk.css.map",
+    "static/css/main.6eefc092.chunk.css.map": "/gitdeployReactLeaveSystem/static/css/main.6eefc092.chunk.css.map"
+  }
+}
